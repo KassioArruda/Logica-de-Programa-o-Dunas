@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Juvenaldo",
+        "idade": 34,
+        "profissao": "Professor"
+    },
+    {
+        "nome": "Kassio",
+        "idade": 18,
+        "profissao": "Engenheiro"
+    },
+    {
+        "nome": "lucas",
+        "idade": 11,
+        "profissao": "Estudante"
+    },
+    {
+        "nome": "cristian",
+        "idade": 19,
+        "profissao": "Medico"
+    },
+    {
+        "nome": "Ricardo",
+        "idade": 27,
+        "profissao": "Advogado"
+    }
+]
